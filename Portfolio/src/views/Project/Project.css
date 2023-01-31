@@ -3,6 +3,8 @@
     font-family: "Readex-Pro", sans-serif;
     background-color: transparent;
     height: auto;
+    display: flex;
+    flex-direction: column;
 }
 .project h1{
     color: var(--white);

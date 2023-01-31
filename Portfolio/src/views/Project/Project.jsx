@@ -26,12 +26,9 @@ function Project() {
       <div data-aos = "fade-up">
         <div className="boxes">
           <div className="carousel owl-carousel">
-            <ProjectBox title = "Social Media Website" />
             <video width="400" controls>
-            <p>Social Media Website</p>
             <source src="https://user-images.githubusercontent.com/10932134/212802919-8e1cde77-0355-4749-a2da-a173814618a0.mp4" type="video/mp4"/>
             </video>
-            <ProjectBox title = "Social Media Website"  />
           </div>
         </div>
       </div>
