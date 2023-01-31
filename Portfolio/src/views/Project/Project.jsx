@@ -6,13 +6,6 @@ import { useEffect } from 'react'
 import 'aos/dist/aos.css'
 
 import ProjectBox from '../../components/ProjectBox/ProjectBox'
-import img7 from  '../../images/TextUtils.png'
-import img5 from  '../../images/Portfolio.png'
-import img3 from  '../../images/FoodDelivery.png'
-import img4 from  '../../images/Gym.png'
-import img1 from  '../../images/AlarmClock.png'
-import img2 from  '../../images/FileDownloader.png'
-import img6 from  '../../images/TexttoSpeech.png'
 
 function Project() {
   useEffect(() =>{

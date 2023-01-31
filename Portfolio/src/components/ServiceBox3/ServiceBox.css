@@ -11,9 +11,10 @@
 .services .card .box{
     
     border-radius: 35%;
-    height: 10rem;
+    height: 12rem;
     background: var(--black-high);
     cursor: pointer;
+    border: 3px solid aqua;
 }
 .services .card .box:hover{
     transform: scale(1.1);
